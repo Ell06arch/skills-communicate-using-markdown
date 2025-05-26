@@ -10,3 +10,6 @@
 var = "Hello, world!"
 print(var)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
